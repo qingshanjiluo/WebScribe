@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 echo WebScribe 服务管理脚本
 echo.
 

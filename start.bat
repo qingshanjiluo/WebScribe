@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 echo WebScribe 一键启动脚本
 echo.
 

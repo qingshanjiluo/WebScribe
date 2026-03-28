@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 echo WebScribe 停止服务脚本
 echo.
 
